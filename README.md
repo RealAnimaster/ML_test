@@ -1,2 +1,2 @@
 # ML_test
-collection of ml algorithms
+collection of ml algorithms.
